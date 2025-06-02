@@ -22,5 +22,5 @@
 - `poruch-event-bot` – Real bot for NGO "Poruch" with full PostgreSQL DB support
 
 ## 📫 Contact
-- Telegram: [@stl1nkk)
+- Telegram: @stl1nkk
 - Email: stlink2009@email.com
