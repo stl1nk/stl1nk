@@ -20,6 +20,7 @@
 ## 📌 Projects
 - `msi-bot` – Telegram bot project for MSI Gaming Ukraine *(not used)*
 - `poruch-event-bot` – Real bot for NGO "Poruch" with full PostgreSQL DB support
+- `weather-api-bot` – A simple Telegram bot that displays current weather, wind speed, and sunrise/sunset times based on the user's IP location
 
 ## 📫 Contact
 - Telegram: @stl1nkk
